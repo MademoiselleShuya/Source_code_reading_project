@@ -100,7 +100,7 @@ git的常用命令
 git init 初始化仓库
 git status 查看仓库当前的状态，显示有变更的文件
 git add . 添加文件到暂存区
-git commit 将暂存区内容添加到仓库中
+git commit -m "XXX" 将暂存区内容添加到仓库中
 git push 上传远程代码并合并
 git pull 下载远程代码并合并
 ```
